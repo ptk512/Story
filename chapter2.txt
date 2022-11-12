@@ -1,1 +1,1 @@
-this is the 2nd chapter in the git.
+this is the 2nd chapter in the git used in the alien theme branch.
